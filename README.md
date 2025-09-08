@@ -1,4 +1,4 @@
-# meta-rdk-app-appsdkexamples-rdkm
+# meta-rdk-app-appsdkexamples-simple
 meta-layer for some examples apps that are listed in new App SDK (DAC2.0) under "rdkm" org, see https://github.com/stagingrdkm/rdke-appsdk-manifests/tree/develop/app/0_rdkm  
 Purpose: Enables developers to quickly learn the App SDK through hands-on example apps, complete with recipes and metadata, and easily replicate the build process for their own projects.  
 Fully representative App run test requires RDK7+/8 version with AppInfra2 Middleware (AI2.0).  
